@@ -1,4 +1,4 @@
-# End-to-End NLP: Analisis Sentimen Topik SNBP
+# [UTS Praktik] End-to-End NLP: Analisis Sentimen Topik SNBP
 
 - **Nama**           : Febriyana Triwijayanti  
 - **NIM**            : 2412501591  
